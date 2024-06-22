@@ -16,8 +16,6 @@
   <project name="ponces/vendor_ponces" path="vendor/ponces" remote="github123" revision="android-14.0" />
   <project name="ponces/vendor_gapps" path="vendor/gapps" remote="gitlab123" revision="android-14.0" clone-depth="1" />
   <project name="ponces/treble_adapter" path="treble_adapter" remote="github123" revision="master" />
-  <project name="ponces/packages_apps_ParanoidSense" path="packages/apps/ParanoidSense" remote="github123" revision="uvite" />
-  <project name="ponces/packages_services_OmniJaws" path="packages/services/OmniJaws" remote="github123" revision="14.0" />
 
   <!-- LineageOS removed-->
 </manifest>
