@@ -4,7 +4,6 @@
   <remote name="gitlab123" fetch="https://gitlab.com" />
 
   <!-- TrebleDroid -->
-  <project name="TrebleDroid/device_phh_treble" path="device/phh/treble" remote="github123" revision="android-14.0" />
   <project name="TrebleDroid/vendor_hardware_overlay" path="vendor/hardware_overlay" remote="github123" revision="pie" />
   <project name="TrebleDroid/vendor_interfaces" path="vendor/interfaces" remote="github123" revision="android-14.0" />
   <project name="TrebleDroid/treble_app" path="treble_app" remote="github123" revision="master" />
@@ -17,4 +16,7 @@
 
   <!-- lmodroid: openeuicc -->
   <project name="LMODroid/platform_packages_apps_OpenEUICC" path="packages/apps/OpenEUICC" remote="github123" revision="fourteen" clone-depth="1" />
+
+  <!-- kaii-lb's everest specific -->
+  <project name="kaii-lb/device_phh_treble_everest" path="device/phh/treble" remote="github123" revision="android-14.0" />
 </manifest>
